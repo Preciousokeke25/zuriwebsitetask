@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Averta;
+    src: url(https://res.cloudinary.com/dafsch2zs/raw/upload/v1596618987/Zuri%20Landing/AvertaDemoPECuttedDemo-Regular_dghpn7.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Averta, sans-serif;
+}
+.img1{
+    margin: 61px 47px 82px 36;
+}
+.card1{
+    background-color:#fffafa;
+    border: 10px solid transparent;
+background-clip: padding-box;
+}
+.card2{
+    background-color:#fffafa;
+    border: 10px solid transparent;
+background-clip: padding-box;
+}
+.card3{
+    background-color:#fffafa;
+    border: 10px solid transparent;
+background-clip: padding-box;
+}
+.hh3{
+    color: red;
+}
+.zurislogan{
+    margin-top :2rem;
+    font-size: 24px;
+    text-align: center;
+    line-height: 40px;  
+}
+h3{
+    margin-top :5rem;
+   text-align: center;
+   color: red;
+    font-size: 14px;
+    line-height: 24px;
+}
+body{
+    box-sizing: border-box;
+}
+.logo{
+    margin-left :38rem;
+    margin-top :4rem;
+}
+.div2{
+    text-align: center;
+    margin-top :5rem;
+}
+.div3{
+text-align: center;
+    margin-top :2rem;
+}
+.herosec{
+    background-image:url(./section\ 1\ image.svg);
+}
+span{
+    color: red;
+}
+.divbtn{
+    margin-left :28rem;
+    margin-top :5rem;
+    display: flex;
+    gap: 20px;
+    
+}
+.btndiv1{
+    background-color:red;
+    color:white; 
+    border:solid 1px red ;
+    padding: 11px 28px;
+}
+.btndiv1:hover{
+    background-color:transparent;
+    color:red;
+    border:solid 1px red ;
+    padding: 11px 28px   
+}
+.btndiv2{
+    background-color:transparent;
+    color: red;
+    border:solid 1px red ;
+    padding: 11px 28px;
+}
+.btndiv2:hover{
+    background-color:red;
+    color:white;
+    border:solid 1px red ;
+    padding: 11px 28px   
+}
