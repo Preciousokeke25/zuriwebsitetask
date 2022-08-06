@@ -24,9 +24,37 @@ background-clip: padding-box;
     background-color:#fffafa;
     border: 10px solid transparent;
 background-clip: padding-box;
+
+}
+.p1 ,.pp{
+    color: black;
+}
+p{
+    color: red;
+}
+footer{
+    margin-left: 5rem;
+    margin-top: 70px;
+    gap: 10rem;
+}
+.imgicon{
+    width: 18px !important;
+}
+hr{
+    background-color:solid 2px grey;
+}
+.imgt{
+    margin-top: 70px;  
 }
 .hh3{
     color: red;
+}
+.h31{
+    color: black;
+    font-size: 24px;
+}
+.pp1{
+    color: black;
 }
 .zurislogan{
     margin-top :2rem;
@@ -45,7 +73,7 @@ body{
     box-sizing: border-box;
 }
 .logo{
-    margin-left :38rem;
+    margin-left :33rem;
     margin-top :4rem;
 }
 .div2{
